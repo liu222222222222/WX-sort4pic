@@ -39,7 +39,7 @@ MIT —— 想干啥干啥，别干坏事就行。
 按分辨率 / 重复图 / 缩略图一键分拣  
 🔗 https://github.com/liu222222222222/WX-sort4pic  
 
-3️⃣ **photo-date-filler**  
+3️⃣ **WX-exif4filler**  
 把缺失的 `1970-01-01` 修正为真实拍摄时间（`00:00` / `30:00` 交替标记）  
 🔗 https://github.com/liu222222222222/WX-exif4filler/
 
@@ -49,3 +49,4 @@ MIT —— 想干啥干啥，别干坏事就行。
 代码 90 % 由 KIMI K2 友情代笔，KIMI 永远的神！以后随缘更新。
 
 不会用？直接扔给 KIMI 问，它不收费。
+
